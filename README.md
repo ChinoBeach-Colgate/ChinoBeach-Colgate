@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 🌌 My Dream is persue my passion by working in the Video Game Industry on big games that I love. 
 
-Game Programming is my life. I also love attending Global Game Jam Events and playing video games. I have been playing Blizzard video games like World of Warcraft and Diablo since I was old enough to use a computer, and have been programming since highschool. Dungeons & Dragons is also a huge part of my life.
+Game Programming is a huge part of my life, and I have been programming since highschool. I also attend events such as Global Game Jam.
 
 ### ✉️How to Contact Me:
 
@@ -72,5 +72,5 @@ LinkedIn: https://www.linkedin.com/in/chino-beach-186071269/
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinoBeach-Colgate&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChinoBeach-Colgate&hide_border=true&exclude_days=Sun%2CSat&background=821019&dates=D2D4D6&stroke=5A646E&sideNums=D2D4D6&ring=5A646E&currStreakNum=F0AA00&excludeDaysLabel=D2D4D6&sideLabels=000000)](https://git.io/streak-stats)
 
