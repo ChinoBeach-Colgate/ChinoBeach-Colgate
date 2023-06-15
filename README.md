@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 <h1>
-  Welcome To My Page
+  Welcome To My Work Page
   <img src= "https://media.giphy.com/media/cmSu7jhtA2s2JPGfWr/giphy.gif" width="3000" height="225"/>
 </div>
 
