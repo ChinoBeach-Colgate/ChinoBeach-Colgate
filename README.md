@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/z0hUv6bpBWUUOtShDf/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/IeXiV1IBhvMQZQYS8b/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -29,11 +29,7 @@ Here are some ideas to get you started:
 
 <h1>
   Welcome To My Page
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000" height="225"/>
+  <img src= "https://media.giphy.com/media/cmSu7jhtA2s2JPGfWr/giphy.gif" width="3000" height="225"/>
 </div>
 
 ## 📖 Educatuion:
