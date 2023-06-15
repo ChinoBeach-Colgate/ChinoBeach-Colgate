@@ -76,6 +76,6 @@ LinkedIn: https://www.linkedin.com/in/chino-beach-186071269/
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinoBeach&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChinoBeach-Colgate&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoBeach&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChinoBeach-Colgate&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
