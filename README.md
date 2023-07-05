@@ -47,12 +47,32 @@ Here are some ideas to get you started:
 
 Game Programming is a huge part of my life, and I have been programming since highschool. I also attend events such as Global Game Jam.
 
+---
+
+ <div id="header" align="center">
+   
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=ChinoBeach-Colgate&border_radius=20&exclude_days=Sun%2CSat&card_width=500&background=821019&excludeDaysLabel=E10028&stroke=5A646E&fire=E10028&ring=D2D4D6&sideNums=D2D4D6&sideLabels=000000&dates=000000&currStreakLabel=5A646E&currStreakNum=F0AA00&border=5A646E&hide_longest_streak=true)](https://git.io/streak-stats)
+
+---
+
+
+<div id="header" align="center">
+  
+ ![CurrentHoTungLogo](https://github.com/ChinoBeach-Colgate/ChinoBeach-Colgate/assets/134402700/d3257299-c0f5-4a21-811f-7d02e2185e01) 
+ 
+ <div id="header" align="left">
+   
 ### ✉️How to Contact Me:
 
 Email: cbeach@colgate.edu
 
 LinkedIn: https://www.linkedin.com/in/chino-beach-186071269/ 
 
+---
+
+
+ <div id="header" align="center">
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="unity" width="40" height="40"/>&nbsp;
@@ -70,12 +90,4 @@ LinkedIn: https://www.linkedin.com/in/chino-beach-186071269/
 </div>
 
 ---
-<div id="header" align="center">
-  
- ![CurrentHoTungLogo](https://github.com/ChinoBeach-Colgate/ChinoBeach-Colgate/assets/134402700/d3257299-c0f5-4a21-811f-7d02e2185e01) 
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=ChinoBeach-Colgate&border_radius=20&exclude_days=Sun%2CSat&card_width=500&background=821019&excludeDaysLabel=E10028&stroke=5A646E&fire=E10028&ring=D2D4D6&sideNums=D2D4D6&sideLabels=000000&dates=000000&currStreakLabel=5A646E&currStreakNum=F0AA00&border=5A646E&hide_longest_streak=true)](https://git.io/streak-stats)
     
