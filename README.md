@@ -54,6 +54,8 @@ Game Programming is a huge part of my life, and I have been programming since hi
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=ChinoBeach-Colgate&border_radius=20&exclude_days=Sun%2CSat&card_width=500&background=821019&excludeDaysLabel=E10028&stroke=5A646E&fire=E10028&ring=D2D4D6&sideNums=D2D4D6&sideLabels=000000&dates=000000&currStreakLabel=5A646E&currStreakNum=F0AA00&border=5A646E&hide_longest_streak=true)](https://git.io/streak-stats)
 
+[![Chino's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChinoBeach-Colgate&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 
